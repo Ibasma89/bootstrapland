@@ -1,0 +1,37 @@
+@import "http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css";
+header {
+  border: 1px solid #000; }
+  header .head1 {
+    border: 1px solid #000;
+    height: 100px; }
+  header .head2 {
+    border: 1px solid #000;
+    height: 100px; }
+  header .head3 {
+    border: 1px solid #000;
+    height: 100px; }
+
+.portada img {
+  width: 100%; }
+
+.tercero span {
+  opacity: 0.8;
+  background: #000;
+  height: 1px;
+  margin: 30px 0; }
+.tercero img {
+  width: 100%; }
+
+.video {
+  position: relative; }
+  .video .boton {
+    position: absolute;
+    top: 40%;
+    color: #fff; }
+    .video .boton button {
+      color: #fff;
+      text-decoration-line: none; }
+      .video .boton button i {
+        width: 20px; }
+
+/*# sourceMappingURL=style.css.map */
